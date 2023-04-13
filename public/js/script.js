@@ -1,5 +1,5 @@
 console.log(
-  "Client side JavaScript file is loaded so you can check it at the console "
+  "Client side JavaScript file is loaded so you can check it at the console ! "
 );
 
 const weatherForm = document.querySelector("form");
