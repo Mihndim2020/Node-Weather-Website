@@ -1,0 +1,26 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/images/demoImage.jpg">
+    <link rel="stylesheet" href="/css/styles.css" />
+    <script src="/js/script.js" defer></script>
+    <title>Home Page</title>
+  </head>
+  <body>
+    <div class="content">
+    {{>header}}
+    <p>Use this site to get your weather</p>
+
+    <form action="">
+      <input type="text" placeholder="location">
+      <button>Search</button>
+    </form>
+
+    <p id="errorMessage"></p>
+    <p id="weatherInfo"></p>
+    </div>
+    {{>footer}}
+  </body>
+</html>
