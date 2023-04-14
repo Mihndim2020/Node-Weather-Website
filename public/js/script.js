@@ -16,7 +16,7 @@ const getAddress = (address) => {
         weatherInfo.textContent = "";
       } else {
         errorMessage.textContent = "";
-        weatherInfo.textContent = `Location: ${data.location}, \n Forcast: It is currently  ${data.forcast} in ${data.location} today`;
+        weatherInfo.textContent = `Location: ${data.location}. \n Forcast: It is currently  ${data.forcast} in ${data.location} today`;
         console.log(data.location);
         console.log(data.forcast);
       }
