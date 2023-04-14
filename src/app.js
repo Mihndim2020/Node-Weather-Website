@@ -1,6 +1,7 @@
 const path = require("path");
 const express = require("express");
 const hbs = require("hbs");
+require("dotenv").config();
 
 const geocode = require("./utils/geocode");
 const forecasts = require("./utils/forecasts");
@@ -99,6 +100,6 @@ app.get("*", (req, res) => {
   });
 });
 
-app.listen(port, () => {
-  console.log(`The server is listening on port ${port}`);
+app.listen(process.env.PORT, () => {
+  console.log(`The server is listening on port ${process.env.PORT}`);
 });
