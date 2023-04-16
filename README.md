@@ -4,8 +4,6 @@ This app enables you to check the weather of a location by inputing the address 
 
 ## Built With
 
-- HTML 5
-- CSS3
+- Node JS 
+- Express JS
 - JAVASCRIPT
-- REACT
-- REDUX
