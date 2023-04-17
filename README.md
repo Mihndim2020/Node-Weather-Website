@@ -10,7 +10,7 @@ This app enables you to check the weather of a location by inputing the address 
 
 ### Frameworks
 - Express JS
-- Handlebars
+- HBS
 ### Technologies used
 - GIT
 - GitHub
