@@ -7,3 +7,12 @@ This app enables you to check the weather of a location by inputing the address 
 - Node JS 
 - Express JS
 - JAVASCRIPT
+
+### Frameworks
+- Express JS
+- Handlebars
+### Technologies used
+- GIT
+- GitHub
+- VS code
+
