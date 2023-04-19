@@ -18,3 +18,5 @@ This app enables you to check the weather of a location by inputing the address 
 ## Live Demo (Comming soon)
 
 [Live Demo Link](https://www.google.com)
+
+## Getting Started
