@@ -23,3 +23,6 @@ This app enables you to check the weather of a location by inputing the address 
 
 - Use npm install to install dependencies
 - Run npm run start to run the project
+
+### Prerequisites
+  - Node JS
