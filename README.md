@@ -26,3 +26,5 @@ This app enables you to check the weather of a location by inputing the address 
 
 ### Prerequisites
   - Node JS
+  - VS code(any IDE)
+  - Express JS
