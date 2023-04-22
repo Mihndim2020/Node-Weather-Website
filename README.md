@@ -28,3 +28,6 @@ This app enables you to check the weather of a location by inputing the address 
   - Node JS
   - VS code(any IDE)
   - Express JS
+  
+### Setup  
+  
