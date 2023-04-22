@@ -30,4 +30,8 @@ This app enables you to check the weather of a location by inputing the address 
   - Express JS
   
 ### Setup  
+
+### Install
+- Use npm install to install dependencies
+- Use npm run dev to start the project
   
