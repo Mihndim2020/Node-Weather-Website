@@ -38,4 +38,7 @@ This app enables you to check the weather of a location by inputing the address 
 
 ### Usage
 - Enter  npm start in the terminal after installing dependencies
+
+### Run tests
+- Not yet available for this project
   
