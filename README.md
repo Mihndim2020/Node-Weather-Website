@@ -44,3 +44,5 @@ This app enables you to check the weather of a location by inputing the address 
   
 ### Deployment
 Coming soon
+
+👤 ## Author
