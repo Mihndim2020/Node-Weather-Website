@@ -46,3 +46,5 @@ This app enables you to check the weather of a location by inputing the address 
 Coming soon
 
 👤 ## Author
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
