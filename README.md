@@ -52,3 +52,5 @@ Coming soon
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
