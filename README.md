@@ -62,3 +62,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- MDN
+- FreeCodeCamp
+
