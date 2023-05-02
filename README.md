@@ -64,4 +64,6 @@ Give a ⭐️ if you like this project!
 
 - MDN
 - FreeCodeCamp
+- Microverse community
+- W3Schools
 
