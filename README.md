@@ -69,3 +69,5 @@ Give a ⭐️ if you like this project!
 - Tunga Academy
 
 ## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
